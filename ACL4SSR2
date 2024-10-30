@@ -29,7 +29,7 @@ ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
 
 custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`[]DIRECT`.*
-custom_proxy_group=♻️ 自动选择`url-test`(NB)`http://www.gstatic.com/generate_204`60,150
+custom_proxy_group=♻️ 自动选择`url-test`(NB)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=💬 OpenAi`url-test`(橘色云)`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=奈飞流媒体`select`(NF|奈飞|解锁|Netflix|NETFLIX|Media|全解锁)
 custom_proxy_group=sptofy`url-test`(新加坡|SG|坡|狮城|🇸🇬|Singapore)`http://www.gstatic.com/generate_204`60,150
