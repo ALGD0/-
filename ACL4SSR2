@@ -10,8 +10,6 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Providers/Ruleset/Amazon.yaml
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/XiaoMi/XiaoMi.list
-ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
-ruleset=🍃 应用净化,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
 ruleset=sptofy,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Ruleset/Spotify.list
 ruleset=📲 电报信息,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
 ruleset=Instagram,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Ruleset/Instagram.list
@@ -39,8 +37,6 @@ custom_proxy_group=💬 OpenAi`url-test`(橘色云|SM)`http://www.gstatic.com/ge
 custom_proxy_group=💬 gemini`url-test`(橘色云|SM)`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=🎯 全球直连`select`[]DIRECT
 custom_proxy_group=便宜节点`url-test`(NB)`http://www.gstatic.com/generate_204`60,150
-custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
-custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]便宜节点`[]♻️ 自动选择`[]🚀 节点选择
 
 enable_rule_generator=true
