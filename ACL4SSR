@@ -12,10 +12,11 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/XiaoMi/XiaoMi.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 ruleset=🍃 应用净化,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
-
 ruleset=sptofy,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Ruleset/Spotify.list
 ruleset=📲 电报信息,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
 ruleset=Instagram,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Ruleset/Instagram.list
+ruleset=🌍 国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
+
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list
 ;ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
@@ -30,6 +31,7 @@ custom_proxy_group=♻️ 自动选择`url-test`(SM)`http://www.gstatic.com/gene
 custom_proxy_group=奈飞流媒体`select`(NF|奈飞|解锁|Netflix|NETFLIX|Media|全解锁|SM)
 custom_proxy_group=📹 油管视频`select`[]🚀 节点选择`[]♻️ 自动选择`.*
 custom_proxy_group=Instagram`select`[]🚀 节点选择`[]♻️ 自动选择`.*
+custom_proxy_group=🌍 国外媒体`select`[]🚀 节点选择`[]♻️ 自动选择`[]🎯 全球直连`.*
 custom_proxy_group=sptofy`url-test`(新加坡|SG|坡|狮城|🇸🇬|Singapore)`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=📲 电报信息`select`[]🚀 节点选择`[]🎯 全球直连`.*
 custom_proxy_group=📢 谷歌FCM`select`[]🚀 节点选择`[]🎯 全球直连`[]♻️ 自动选择`.*
