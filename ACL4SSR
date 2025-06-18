@@ -13,6 +13,7 @@ ruleset=📲 电报信息,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=Instagram,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Ruleset/Instagram.list
 ruleset=🌍 国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 ruleset=🆎 AdBlock,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyList.list
+ruleset=🆎 AdBlock,https://raw.githubusercontent.com/Athar5443/Youtube_BlockAds_List/refs/heads/main/output/adblockplus.txt
 
 custom_proxy_group=🆎 AdBlock`select`[]REJECT`[]DIRECT
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list
