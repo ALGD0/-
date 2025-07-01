@@ -16,7 +16,7 @@ ruleset=Instagram,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/m
 ruleset=🌍 国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 ruleset=docker和github,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Ruleset/Docker.list
 ruleset=docker和github,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Ruleset/Github.list
-ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list
+ruleset=🌍 国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list
 
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
@@ -27,7 +27,7 @@ ruleset=🐟 漏网之鱼,[]FINAL
 
 custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`.*
 custom_proxy_group=♻️ 自动选择`url-test`(SM)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=便宜节点`fallback`(NB)`http://www.gstatic.com/generate_204`180
+custom_proxy_group=便宜节点`fallback-auto`(NB)`http://www.gstatic.com/generate_204`180
 custom_proxy_group=📷 GooglePhotos`select`[]便宜节点`[]🚀 节点选择`[]♻️ 自动选择
 custom_proxy_group=📹 油管视频`select`[]🚀 节点选择`[]♻️ 自动选择`[]便宜节点
 custom_proxy_group=Instagram`select`[]🚀 节点选择`[]♻️ 自动选择`[]便宜节点
