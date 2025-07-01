@@ -27,7 +27,7 @@ ruleset=🐟 漏网之鱼,[]FINAL
 
 custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`.*
 custom_proxy_group=♻️ 自动选择`url-test`(SM)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=便宜节点`fallback`.*`http://www.gstatic.com/generate_204`180
+custom_proxy_group=便宜节点`url-test`(NB)`http://www.gstatic.com/generate_204`100,,20
 custom_proxy_group=📷 GooglePhotos`select`[]便宜节点`[]🚀 节点选择`[]♻️ 自动选择
 custom_proxy_group=📹 油管视频`select`[]🚀 节点选择`[]♻️ 自动选择`[]便宜节点
 custom_proxy_group=Instagram`select`[]🚀 节点选择`[]♻️ 自动选择`[]便宜节点
