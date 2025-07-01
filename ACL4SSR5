@@ -41,5 +41,6 @@ custom_proxy_group=🎯 全球直连`select`[]DIRECT
 custom_proxy_group=docker和github`select`[]便宜节点`[]🚀 节点选择`[]♻️ 自动选择
 custom_proxy_group=🐟 漏网之鱼`select`[]便宜节点`[]♻️ 自动选择`[]🚀 节点选择
 
+
 enable_rule_generator=true
 overwrite_original_rules=true
