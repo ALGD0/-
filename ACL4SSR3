@@ -24,8 +24,9 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
 
-custom_proxy_group=🚀 节点选择`select`[]♻️ 三毛`[]♻️ 海洋的`[]♻️ 橘色云`[]♻️ 便宜节点`[]🚀 手动切换`[]DIRECT
+custom_proxy_group=🚀 节点选择`select`[]🔮 负载均衡`[]♻️ 三毛`[]♻️ 海洋的`[]♻️ 橘色云`[]♻️ 便宜节点`[]🚀 手动切换`[]DIRECT
 custom_proxy_group=🚀 手动切换`select`.*
+custom_proxy_group=🔮 负载均衡`load-balance`(美国)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=♻️ 三毛`url-test`(SM)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=♻️ 海洋的`url-test`(YHY)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=♻️ 橘色云`url-test`(JSY)`http://www.gstatic.com/generate_204`300,,50
