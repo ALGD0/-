@@ -1,0 +1,15 @@
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-client-search.apple.com
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+
+DOMAIN-KEYWORD,applenews
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,news.apple.com
+DOMAIN-SUFFIX,news-edge.apple.com
+DOMAIN-SUFFIX,news-events.apple.com
+DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-SUFFIX,news.iadsdk.apple.com
+DOMAIN-SUFFIX,iadcontent.apple.com
+DOMAIN-SUFFIX,apple.comscoreresearch.com
+DOMAIN-SUFFIX,news.apple-dns.net
